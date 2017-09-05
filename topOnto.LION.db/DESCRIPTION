@@ -1,0 +1,12 @@
+Package: topOnto.LION.db
+Type: Package
+Title: Lipid Ontology DB package for topOnto
+Version: 0.99.0
+Date: 2015-02-05
+Author: Xin He
+Maintainer:Xin He <xin.he@ed.ac.uk>
+Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.26.0), RSQLite
+Description: TopOnto ontology db package
+biocViews: AnnotationData, FunctionalAnnotation
+License: LGPL
+VignetteBuilder: knitr
